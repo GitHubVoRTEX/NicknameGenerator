@@ -1,2 +1,2 @@
-# StartUpNameGenerator
-Приложение на Dart&amp;Flatter для генерации случайных названий стартапов.
+# NicknameGenerator
+Приложение на Dart&Flatter для генерации случайных игровых никнеймов.
